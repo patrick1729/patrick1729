@@ -17,6 +17,7 @@ I am [Prateek Mishra](https://linkedin.com/in/prateek-m), a passionate persion w
 ![JavaScript](https://img.shields.io/twitter/url?color=white&label=JavaScript&logo=javascript&style=for-the-badge&url=https%3A%2F%2Fwww.javascript.com%2F)
 ![Node JS](https://img.shields.io/twitter/url?color=white&label=NodeJS&logo=node.js&style=for-the-badge&url=https%3A%2F%2Fnodejs.org%2Fen%2F)
 ![Firebase](https://img.shields.io/twitter/url?color=white&label=Firebase&logo=firebase&style=for-the-badge&url=https%3A%2F%2Ffirebase.google.com%2F)
+![Socket.io](https://img.shields.io/twitter/url?color=%23fff&label=Socket.IO&logo=Socket.io&logoColor=%23fff&style=for-the-badge&url=https%3A%2F%2Fsocket.io%2F)
 
 ## Tools :hammer:
 ![Webpack](https://img.shields.io/twitter/url?color=white&label=Webpack&logo=webpack&style=for-the-badge&url=https%3A%2F%2Fwebpack.js.org%2F)
@@ -43,7 +44,17 @@ Ever since I was a kid, coding has been my passion. I liked to watch the output 
 
 The passion carried me through my college days. Here I would actively participate in coding competitions both online and at the college to test my mettle. I was getting mature in terms of software development as I made the transition from simple Java programs to complex JSP, Servlets and Swing desktop applications. I gradually developed a taste for Android app development and enjoyed creating small apps and again getting surprised by how the apps are developed and understanding the meaning of the word "compatibility".
 
-Now, in industry, I hold an experience of 3.5+ years. I have worked in Banking and Finance Sector (BFS) for [Deutsche Bank](https://www.db.com/index?language_id=1) client where I have used and enhanced my knowledge in mobile and hybrid app development and currently working on an accounting application [Giddh](https://giddh.com/) to make accounting simple. I enjoy to be a part of skillfully designed performant products that are loved by customers and dealing with architectures of huge applications. I like discussing architectures and their scalability to target a billion users. There's still more to learn and I have just scratched the surface. And for this, I am very grateful.
+Now, in industry, I hold an experience of 4+ years. I have been fortunate to be a part of the following:
+- Internship with [Zensar](https://www.zensar.com/) where got an opportunity to work on Java, JSP, Servlets and AngularJS
+- Banking and Finance Sector (BFS) in [TCS](https://www.tcs.com/) for [Deutsche Bank](https://www.db.com/index?language_id=1) client where I have used and enhanced my knowledge in mobile and hybrid app development
+
+- Currently working at [Walkover](https://walkover.in/) on following products:
+  - Worked on setting up [Hitman's](https://hitman.app/) desktop app in React and Electron
+  - Worked on SocketIO integration with NodeJs in [Msg91 Hello](https://msg91.com/hello/) app
+  - Accounting application [Giddh](https://giddh.com/) to make accounting simple with web and desktop app
+
+
+I enjoy to be a part of skillfully designed performant products that are loved by customers and dealing with architectures of huge applications. I like discussing architectures and their scalability to target a billion users. There's still more to learn and I have just scratched the surface. And for this, I am very grateful.
 
 ## Let's connect :tropical_drink:
 <a href="https://linkedin.com/in/prateek-m">
