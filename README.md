@@ -51,7 +51,7 @@ Now, in industry, I hold an experience of 4+ years. I have been fortunate to be 
 - Currently working at [Walkover](https://walkover.in/) on following products:
   - Worked on setting up [Hitman's](https://hitman.app/) desktop app in React and Electron
   - Worked on SocketIO integration with NodeJs in [Msg91 Hello](https://msg91.com/hello/) app
-  - Accounting application [Giddh](https://giddh.com/) to make accounting simple with web and desktop app
+  - Accounting application [Giddh](https://giddh.com/) to make accounting simple with web and desktop apps
 
 
 I enjoy to be a part of skillfully designed performant products that are loved by customers and dealing with architectures of huge applications. I like discussing architectures and their scalability to target a billion users. There's still more to learn and I have just scratched the surface. And for this, I am very grateful.
