@@ -44,6 +44,7 @@ Ever since I was a kid, coding has been my passion. I liked to watch the output 
 
 The passion carried me through my college days. Here I would actively participate in coding competitions both online and at the college to test my mettle. I was getting mature in terms of software development as I made the transition from simple Java programs to complex JSP, Servlets and Swing desktop applications. I gradually developed a taste for Android app development and enjoyed creating small apps and again getting surprised by how the apps are developed and understanding the meaning of the word "compatibility".
 
+## Experience so far :hourglass_flowing_sand:
 Now, in industry, I hold an experience of 4+ years. I have been fortunate to be a part of the following:
 - Internship with [Zensar](https://www.zensar.com/) where I've got an opportunity to work on Java, JSP, Servlets and AngularJS
 - Banking and Finance Sector (BFS) in [TCS](https://www.tcs.com/) for [Deutsche Bank](https://www.db.com/index?language_id=1) client where I have used and enhanced my knowledge in mobile and hybrid app development
