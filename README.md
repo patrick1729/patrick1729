@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am [Prateek Mishra](https://linkedin.com/in/prateek-m), a passionate persion who loves to create new things and extend his limits by challenging his own beliefs. I am always curious to explore new enhancement that software field is bringing to the humanity, may it be in web development or space research. Currently, working as a Sr. Software Developer in Indore, India.
+I am [Prateek Mishra](https://linkedin.com/in/prateek-m), a passionate persion who loves to create new things and extend his limits by challenging his own beliefs. I am always curious to explore new enhancement that software field is bringing to the humanity, may it be in web development or space research. Currently, working as Technical Lead in Indore, India.
 
 ## Skills :dart:
 ![Angular](https://img.shields.io/twitter/url?color=white&label=Angular&logo=angular&logoColor=F44336&style=for-the-badge&url=https%3A%2F%2Fangular.io%2F)
